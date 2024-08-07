@@ -32,7 +32,17 @@
             <artifactId>olingo-odata2-api</artifactId>
             <version>2.0.13</version>
         </dependency>
-
+        <dependency>
+            <groupId>com.aspose</groupId>
+            <artifactId>aspose-words</artifactId>
+            <version>16.8.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.aspose</groupId>
+            <artifactId>aspose-words</artifactId>
+            <version>16.8.0</version>
+            <classifier>javadoc</classifier>
+        </dependency>
     </dependencies>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
